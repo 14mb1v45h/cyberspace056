@@ -35,6 +35,6 @@ $ python Zsqli-scanner.py
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
 ### Author
-<a href="https://github.com/14mb1v45h">< alt=""/></a>
+14mb1v45h
 
 
